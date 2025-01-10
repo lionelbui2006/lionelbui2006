@@ -12,7 +12,7 @@ I'm a Vietnamese software-engineer and a passionate gaming developer at a time. 
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My social accounts:</h3>
 <p align="left">
    <a href="https://fb.com/mnhatt.2006" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mnhatt.2006" height="40" width="50" />
@@ -22,7 +22,7 @@ I'm a Vietnamese software-engineer and a passionate gaming developer at a time. 
    </a>
 </p>
 
-### 📫 How to reach me: bmnhat179@gmail.com
+### 📫 Contact with me: bmnhat179@gmail.com
 #
 
 ### ⚡ Fun fact: I'm also training Calisthenics
