@@ -38,7 +38,6 @@ I'm a Vietnamese software-engineer and a passionate gaming developer at a time. 
 <img align="left" title="Java" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain.svg" />
 <img align="left" title="Microsoft SQL Sever" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" title="My SQL" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
-<img align="left" title="Git" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" />
 <br />
 
 #
@@ -50,7 +49,8 @@ I'm a Vietnamese software-engineer and a passionate gaming developer at a time. 
 <img align="left" title="Unity" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-plain.svg" />
 <img align="left" title="Premiere Pro" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/premierepro/premierepro-plain.svg" />
 <img align="left" title="Photoshop" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-plain.svg" />
-
+<img align="left" title="Github" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
+<img align="left" title="Git" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" />
 <br />
 
 #
