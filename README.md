@@ -10,7 +10,37 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ---
 
-### 🧰 Languages and Tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+   <a href="https://fb.com/mnhatt.2006" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mnhatt.2006" height="30" width="40" />
+   </a>
+   <a href="https://instagram.com/b.mnhat" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b.mnhat" height="30" width="40" />
+   </a>
+</p>
+
+### 📫 How to reach me 
+      bmnhat179@gmail.com
+#
+
+### ⚡ Fun fact 
+      I'm also training Calisthenics
+#
+
+### 🧰 Languages
+
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-plain-wordmark.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain-wordmark.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain-wordmark.svg" />
+<img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg" />
+<br />
+
+#
+
+### 🧰 Tools
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-plain.svg" />
