@@ -37,7 +37,6 @@ I'm a Vietnamese software-engineer and a passionate gaming developer at a time. 
 <img align="left" title="Java Script" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" />
 <img align="left" title="Java" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain.svg" />
 <img align="left" title="Microsoft SQL Sever" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<img align="left" title="My SQL" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
 <br />
 
 #
