@@ -1,6 +1,6 @@
 # 🏄‍♂ Lionel Bui
 
-I'm a Vietnamese software-engineer and a passionate gaming developer at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems and entertaining with code. 
+I'm a Vietnamese Software Engineer and a passionate Gaming Developer at a time. All coding projects are built from the ground up, from planning and designing all the way to entertaining and solving real-life problems  with code. 
    <p align="left">
       <a href="https://github.com/lionelbui2006?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lionelbui2006?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
