@@ -22,7 +22,7 @@ I'm a Vietnamese Software Engineer and a passionate Gaming Developer at a time. 
    </a>
 </p>
 
-### 📫 Contact with me: bmnhat179@gmail.com
+### 📫 Contact with me: lionelbui206@gmail.com
 #
 
 ### ⚡ Fun fact: I'm also training Calisthenics
