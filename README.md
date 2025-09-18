@@ -66,6 +66,3 @@ I'm a Vietnamese Software Engineer and a passionate Gaming Developer at a time. 
  <summary><h3>👨‍💻 Lionel's Coding Journey</h3></summary>
  
 -->
-<img src="https://raw.githubusercontent.com/lionelbui2006/lionelbui2006/output/snake.svg" alt="Snake animation" />
-
-###
